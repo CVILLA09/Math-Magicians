@@ -3,7 +3,10 @@
   <h1><b> Welcome to my project! 👋<br/></b></h1>
 
 </div>
+<div align="center">
+  <img src="https://media3.giphy.com/media/BmmfETghGOPrW/giphy.gif" alt="logo" width="600" height="auto" />
 
+</div>
 
 <div align="center">
   
