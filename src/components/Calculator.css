@@ -8,7 +8,6 @@
     padding: 10px;
   }
   
-  
   /* Style for buttons */
   .button {
     background-color: white;
@@ -21,23 +20,13 @@
   
   .button-0 {
     width: 50%;
-  }  
+  }
   
   /* Style for the right column buttons */
   .button-orange {
     background-color: orange;
     color: black;
     width: 25%;
-    height: 60px;
-    font-size: 20px;
-    border: 1px solid #ccc;
-  }  
-  
-  /* Style for the "0" button */
-  .button.zero {
-    background-color: white;
-    color: black;
-    width: 50%;
     height: 60px;
     font-size: 20px;
     border: 1px solid #ccc;
@@ -53,5 +42,4 @@
     display: flex;
     flex-wrap: wrap;
   }
-  
   
