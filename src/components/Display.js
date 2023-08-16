@@ -1,7 +1,8 @@
 import React from 'react';
+import './Display.css';
 
 const Display = () => (
-  <div style={{ width: '4ratios', height: '1ratio', border: '1px solid black', padding: '10px' }}>
+  <div className="display">
     {/* Content goes here */}
   </div>
 );
