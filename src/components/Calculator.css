@@ -39,7 +39,7 @@
   /* Layout styling for buttons and calculator */
   .calculator {
     width: 500px;
-    margin: 200px auto; 
+    margin: 150px auto; 
     display: flex;
     flex-direction: column;
     align-items: center; 
