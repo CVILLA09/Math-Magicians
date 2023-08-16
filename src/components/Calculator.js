@@ -1,6 +1,7 @@
 import React from 'react';
 import Display from './Display';
 import Button from './Button';
+import './Calculator.css';
 
 const Calculator = () => (
   <div className="calculator">
