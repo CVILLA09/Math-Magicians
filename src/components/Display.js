@@ -3,7 +3,7 @@ import './Calculator.css';
 
 const Display = () => (
   <div className="display">
-    {/* Content goes here */}
+    0
   </div>
 );
 
