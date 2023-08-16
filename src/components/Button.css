@@ -1,0 +1,17 @@
+.button {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  .button.wide {
+    width: 2ratios;
+  }
+  
+  .button.narrow {
+    width: 1ratio;
+  }
+  
+  .button.height {
+    height: 1ratio;
+  }
+  
