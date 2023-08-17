@@ -21,6 +21,10 @@
   border: 1px solid #ccc;
 }
 
+.button:hover {
+  background-color: #f0f0f0;
+}
+
 .button-0 {
   width: 50%;
 }
@@ -33,6 +37,10 @@
   height: 70px;
   font-size: 20px;
   border: 1px solid #ccc;
+}
+
+.button-orange:hover {
+  background-color: #ff8c00; /* Change this to the desired hover color for orange buttons */
 }
 
 /* Layout styling for buttons and calculator */

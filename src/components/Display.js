@@ -1,10 +1,19 @@
-import React from 'react';
+import PropTypes from 'prop-types'; // Add this line
 import './Calculator.css';
 
-const Display = () => (
+const Display = ({ value }) => (
   <div className="display">
-    0
+    {value}
   </div>
 );
+
+// Add these lines to define the propTypes
+Display.propTypes = {
+  value: PropTypes.string,
+};
+
+Display.defaultProps = {
+  value: '0',
+};
 
 export default Display;
