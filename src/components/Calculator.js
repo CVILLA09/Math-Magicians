@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
-import calculate from './logic/calculate';
+import calculate from '../logic/calculate';
 import Display from './Display';
 import Button from './Button';
 import './Calculator.css';
 
 const Calculator = () => {
-  const [calculatorData, setCalculatorData] = useState({ total: null, next: null, operation: null });
+  const [calculatorData, setCalculatorData] = useState(
+    { total: null, next: null, operation: null },
+  );
 
   // Click event handler function
   const handleButtonClick = (buttonName) => {
