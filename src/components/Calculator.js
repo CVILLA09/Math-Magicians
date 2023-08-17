@@ -5,9 +5,14 @@ import Button from './Button';
 import './Calculator.css';
 
 const Calculator = () => {
-  // Declare the state inside the component
   const [calculatorData, setCalculatorData] = useState({ total: null, next: null, operation: null });
 
+  // Click event handler function
+  const handleButtonClick = (buttonName) => {
+    const newCalculatorData = calculate(calculatorData, buttonName);
+    setCalculatorData(newCalculatorData);
+  };
+  
   return (
     <div className="calculator">
       <Display />
