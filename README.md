@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<h1 align="center">📊 Math Magicians 🔮</h1>
+<h1 align="center">🧮 Math Magicians 🔮</h1>
 </div>
 
 
@@ -42,7 +42,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 About the project <a name="about-project"></a>
+# Math Magicians 🔮 <a name="about-project"></a>
 
 **Math Magicians** is a Single Page App (SPA) that serves as a platform for all fans of mathematics. The core functionality of the project includes:
 - Making simple calculations.
@@ -158,7 +158,7 @@ To build the project for production, run:
 
 - GitHub: [@CVILLA09](https://github.com/CVILLA09)
 
-- LinkedIn: [@CristianVilla](www.linkedin.com/in/cristian-villa-5b518127b)
+- LinkedIn: [@CristianVilla](https://www.linkedin.com/in/cristian-villa-5b518127b/)
 
 
 
@@ -185,7 +185,7 @@ Future changes and enhancements include:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/CVILLA09/Math-Magicians/issues/new/choose).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
