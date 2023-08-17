@@ -15,7 +15,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator">
-      <Display />
+      <Display value={calculatorData.next || calculatorData.total || '0'} />
       <div className="buttons">
         <Button label="AC" onClick={() => handleButtonClick('AC')} />
         <Button label="+/-" onClick={() => handleButtonClick('+/-')} />
