@@ -7,7 +7,7 @@ function Quotes() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get('https://api.api-ninjas.com/v1/quotes?category=dreams', {
+    axios.get('https://api.api-ninjas.com/v1/quotes?category=imagination', {
       headers: { 'X-Api-Key': 'CswAFd5+15BCNhWkX0QvMQ==2j0HO1d24mVADbcM' },
     })
       .then((response) => {
@@ -33,10 +33,15 @@ function Quotes() {
       </p>
     );
   } else {
-    content = <p>{quote ? quote.quote : 'No quote available'}</p>;
+    content = (
+      <div>
+        <p>{quote ? quote.quote : 'No quote available'}</p>
+        <p>{quote ? `- ${quote.author}` : ''}</p>
+      </div>
+    );
   }
 
-  return <div>{content}</div>;
+  return <div className="quote-container">{content}</div>;
 }
 
 export default Quotes;
