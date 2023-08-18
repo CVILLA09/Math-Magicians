@@ -35,7 +35,7 @@ function Quotes() {
   } else {
     content = (
       <div>
-        <p>{quote ? quote.quote : 'No quote available'}</p>
+        <p>{quote ? `"${quote.quote}"` : 'No quote available'}</p>
         <p>{quote ? `- ${quote.author}` : ''}</p>
       </div>
     );
