@@ -169,9 +169,6 @@ To build the project for production, run:
 
 Future changes and enhancements include:
 
-- **Project 2: Components**: Building the core functionality of the calculator with reusable React components.
-- **Project 3: Events**: Implementing event handling to make the calculator functional.
-- **Project 4: Fetch Data from API**: Integrating with an API to provide random math-related quotes.
 - **Project 5: Full Website**: Developing the full website with sub-pages for the calculator and quotes.
 - **Project 6: Tests**: Writing tests to ensure the robustness of the application (pair programming).
 - **Deploy**: Deploying the application to a live environment.
