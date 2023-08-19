@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<h1 align="center">🧮 Math Magicians 🔮</h1>
+<h1 align="center">🧮 Math Magicians🔮</h1>
 </div>
 
 
