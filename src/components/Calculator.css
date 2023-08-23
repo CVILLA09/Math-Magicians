@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px 100px; /* Adjust as needed */
+  padding: 40px 100px;
   max-width: 100%;
 }
 
@@ -11,7 +11,7 @@
   font-size: 2rem;
   text-align: left;
   color: #333;
-  width: 40%; /* Adjust as needed */
+  width: 40%;
   margin-top: -360px;
   margin-right: 150px;
 }
@@ -58,7 +58,7 @@
 }
 
 .button-orange:hover {
-  background-color: #ff8c00; /* Change this to the desired hover color for orange buttons */
+  background-color: #ff8c00;
 }
 
 /* Layout styling for buttons and calculator */

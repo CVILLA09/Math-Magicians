@@ -1,6 +1,6 @@
 .quote-container {
-  max-width: 700px; /* Use max-width instead of fixed width */
-  width: 80%; /* Responsive width */
+  max-width: 700px;
+  width: 80%; 
   margin: 20px auto;
   border: 1px solid #ddd;
   background-color: #f9f9f9;
