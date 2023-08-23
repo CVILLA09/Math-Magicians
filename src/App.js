@@ -1,6 +1,11 @@
+import React from 'react';
+import Navbar from './layout/Navbar';
+import Footer from './layout/Footer';
+import Home from './pages/Home';
 import Calculator from './components/Calculator';
-import Quotes from './quotes/Quotes';
-import './App.css';
+import Quote from './quotes/Quotes';
+
+
 
 function App() {
   return (
