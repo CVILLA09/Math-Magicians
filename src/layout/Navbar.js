@@ -4,8 +4,8 @@ import './Navbar.css';
 
 const Navbar = () => (
   <nav>
-    <div>Math Magicians</div>
-    <div>
+    <div className="navbar-title">Math Magicians</div>
+    <div className="navbar-links">
       <Link to="/">Home</Link>
       {' '}
       |

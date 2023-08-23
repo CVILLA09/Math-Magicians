@@ -12,31 +12,3 @@ body, #root {
   min-height: 100vh;
   justify-content: space-between;
 }
-
-.quote-container {
-  max-width: 500px; /* Use max-width instead of fixed width */
-  width: 80%; /* Responsive width */
-  margin: 20px auto;
-  border: 1px solid #ddd;
-  background-color: #f9f9f9;
-  padding: 20px;
-  height: auto;
-  margin: 20px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  font-style: italic;
-  font-size: 18px;
-  line-height: 1.5;
-  text-align: justify;
-  position: relative;
-}
-
-.quote-container p {
-  margin-bottom: 10px;
-}
-
-.quote-container p:last-child {
-  text-align: right;
-  font-style: normal;
-  font-size: medium;
-  font-weight: bold;
-}

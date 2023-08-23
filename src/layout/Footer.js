@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer = () => (
   <footer>
-    <div>© 2023 Math Magicians</div>
+    <div className="footer-text">© 2023 Math Magicians</div>
   </footer>
 );
 

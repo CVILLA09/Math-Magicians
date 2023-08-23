@@ -4,8 +4,8 @@ import './Home.css';
 const Home = () => (
   <div>
     <h1>Welcome to our page</h1>
-    <p>Lorem ipsum dolor sit amet, consecteur...</p>
-    <p>Lorem ipsum dolor sit amet, consecteur...</p>
+    <p>Math Magicians is a community for math enthusiasts and learners.</p>
+    <p>Explore our calculator, read interesting quotes, and join us on our mathematical journey!</p>
   </div>
 );
 

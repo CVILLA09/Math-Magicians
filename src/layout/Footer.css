@@ -1,10 +1,15 @@
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    background-color: #f0f0f0;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: right;
+  font-size: large;
+  box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.footer-text {
+  margin-right: 10px;
+}
