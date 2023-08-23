@@ -20,6 +20,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [👀 Preview](#preview)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -46,6 +47,12 @@
 **Math Magicians** is a Single Page App (SPA) that serves as a platform for all fans of mathematics. The core functionality of the project includes:
 - Making simple calculations.
 - Reading a random math-related quote.
+
+<br/>
+
+# Preview 👀 <a name="preview"></a>
+
+![Preview of Math Magicians](https://github.com/CVILLA09/Math-Magicians/blob/feature/full-website/assets/calculator-preview-full.gif?raw=true)
 
 <br/>
 
