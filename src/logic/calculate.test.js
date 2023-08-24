@@ -24,6 +24,12 @@ let testObj4 = {
   operation: null,
 }
 
+let testObj5 = {
+  total: "5000",
+  next: "5000.",
+  operation: null,
+}
+
 describe('Testing calculate function', () => {
   test('Test AC button', () => {
     expect(calculate(testObj, 'AC')).toEqual(testObj);
@@ -35,5 +41,9 @@ describe('Testing calculate function', () => {
 
   test('Test +/- button', () => {
     expect(calculate(testObj3, '+/-')).toEqual(testObj4);
+  });
+
+  test('Test . button', () => {
+    expect(calculate(testObj3, '.')).toEqual(testObj5);
   });
 });
