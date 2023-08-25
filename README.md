@@ -155,7 +155,7 @@ To build the project for production, run:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 
 
