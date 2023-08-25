@@ -183,8 +183,6 @@ To build the project for production, run:
 
 Future changes and enhancements include:
 
-- **Project 5: Full Website**: Developing the full website with sub-pages for the calculator and quotes.
-- **Project 6: Tests**: Writing tests to ensure the robustness of the application (pair programming).
 - **Deploy**: Deploying the application to a live environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
