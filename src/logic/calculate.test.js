@@ -1,34 +1,34 @@
 import calculate from './calculate';
 
-let testObj = {
+const testObj = {
   total: null,
   next: null,
   operation: null,
-}
+};
 
-let testObj2 = {
+const testObj2 = {
   total: 100,
   next: 50,
   operation: 'x',
-}
+};
 
-let testObj3 = {
-  total: "5000",
+const testObj3 = {
+  total: '5000',
   next: null,
   operation: null,
-}
+};
 
-let testObj4 = {
-  total: "-5000",
+const testObj4 = {
+  total: '-5000',
   next: null,
   operation: null,
-}
+};
 
-let testObj5 = {
-  total: "5000",
-  next: "5000.",
+const testObj5 = {
+  total: '5000',
+  next: '5000.',
   operation: null,
-}
+};
 
 describe('Testing calculate function', () => {
   test('Test AC button', () => {
