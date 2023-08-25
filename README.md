@@ -10,7 +10,7 @@
 
 <div align="center">
   
-<h1 align="center">📊 Math Magicians 🔮</h1>
+<h1 align="center">🧮 Math Magicians🔮</h1>
 </div>
 
 
@@ -20,6 +20,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [👀 Preview](#preview)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -35,18 +36,23 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <br/>
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 About the project <a name="about-project"></a>
+# Math Magicians 🔮 <a name="about-project"></a>
 
 **Math Magicians** is a Single Page App (SPA) that serves as a platform for all fans of mathematics. The core functionality of the project includes:
 - Making simple calculations.
 - Reading a random math-related quote.
+
+<br/>
+
+# Preview 👀 <a name="preview"></a>
+
+![Preview of Math Magicians](https://github.com/CVILLA09/Math-Magicians/blob/feature/full-website/assets/calculator-preview-full.gif?raw=true)
 
 <br/>
 
@@ -149,7 +155,7 @@ To build the project for production, run:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
 
 
 
@@ -158,7 +164,14 @@ To build the project for production, run:
 
 - GitHub: [@CVILLA09](https://github.com/CVILLA09)
 
-- LinkedIn: [@CristianVilla](www.linkedin.com/in/cristian-villa-5b518127b)
+- LinkedIn: [@Cristian Villa](https://www.linkedin.com/in/cristian-villa-5b518127b/)
+
+👤 **José Fernández Caminero**
+
+
+- GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
+
+- LinkedIn: [@José Fernández Caminero](https://www.linkedin.com/in/fdezcaminero/)
 
 
 
@@ -170,11 +183,6 @@ To build the project for production, run:
 
 Future changes and enhancements include:
 
-- **Project 2: Components**: Building the core functionality of the calculator with reusable React components.
-- **Project 3: Events**: Implementing event handling to make the calculator functional.
-- **Project 4: Fetch Data from API**: Integrating with an API to provide random math-related quotes.
-- **Project 5: Full Website**: Developing the full website with sub-pages for the calculator and quotes.
-- **Project 6: Tests**: Writing tests to ensure the robustness of the application (pair programming).
 - **Deploy**: Deploying the application to a live environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -185,7 +193,7 @@ Future changes and enhancements include:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/CVILLA09/Math-Magicians/issues/new/choose).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,7 +211,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-- Thanks to all <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="108" height="18"> community
+Thanks to all <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="108" height="18"> community.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
