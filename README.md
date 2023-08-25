@@ -164,7 +164,14 @@ To build the project for production, run:
 
 - GitHub: [@CVILLA09](https://github.com/CVILLA09)
 
-- LinkedIn: [@CristianVilla](https://www.linkedin.com/in/cristian-villa-5b518127b/)
+- LinkedIn: [@Cristian Villa](https://www.linkedin.com/in/cristian-villa-5b518127b/)
+
+👤 **José Fernández Caminero**
+
+
+- GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
+
+- LinkedIn: [@José Fernández Caminero](https://www.linkedin.com/in/fdezcaminero/)
 
 
 
