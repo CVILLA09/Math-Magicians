@@ -54,6 +54,8 @@
 
 ![Preview of Math Magicians](https://github.com/CVILLA09/Math-Magicians/blob/feature/full-website/assets/calculator-preview-full.gif?raw=true)
 
+[Click here to visit live site](https://math-magicians-wj5r.onrender.com)
+
 <br/>
 
 ## 🛠 Built With <a name="built-with"></a>
